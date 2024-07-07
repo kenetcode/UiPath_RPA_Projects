@@ -28,6 +28,6 @@ Este repositorio contiene una colección de proyectos de automatización creados
 1. **Clonar el Repositorio**: Descarga o clona este repositorio en tu máquina local.
 2. **Explorar los Proyectos**: Revisa los diferentes proyectos y abre los archivos de UiPath en UiPath Studio.
 3. **Seguir las Instrucciones**: Consulta la documentación proporcionada para cada proyecto para entender su funcionamiento y cómo implementarlo.
-4. **Contribuir**: Si deseas aportar mejoras o nuevos proyectos, siéntete libre de hacer un fork del repositorio y enviar un pull request...
+4. **Contribuir**: Si deseas aportar mejoras o nuevos proyectos, siéntete libre de hacer un fork del repositorio y enviar un pull request.
 
 ---
