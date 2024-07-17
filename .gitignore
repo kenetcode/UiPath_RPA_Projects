@@ -1,0 +1,59 @@
+# Archivos generales de backup
+*.bak
+*.tmp
+*.temp
+*.backup
+
+# Archivos de configuración local de UiPath
+*.local
+*.settings
+project.json
+*PackageCache.json
+*ProjectSettings.json
+*AllDependencies.json
+
+# Carpetas de dependencias de UiPath
+lib/
+packages/
+
+# Archivos de cache de compilación
+obj/
+bin/
+*.user
+*.suo
+*.cache
+*.props
+
+# Archivos de logs
+*.log
+
+# Archivos y carpetas específicos de MacOS
+.DS_Store
+
+# Archivos y carpetas específicos de Windows
+Thumbs.db
+Desktop.ini
+
+# Carpetas de salida
+output/
+
+# Archivos específicos de versiones de UiPath
+project.lock.json
+
+# Excluir archivos de configuración específicos del entorno
+app.config
+web.config
+
+# Excluir repositorios de NuGet
+*.nupkg
+*.nuspec
+NuGet.Config
+NuGet.exe
+NuGet.targets
+packages.config
+
+# Excluir archivos de configuración de publicación
+*.PublishSettings
+
+# Excluir archivos temporales de Visual Studio Code
+.vscode/
